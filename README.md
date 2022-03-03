@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learnin: **SQL - Node Sql - React - JavaScript - TypeScript.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MrThelink?tab=repositories](https://github.com/MrThelink?tab=repositories)
+- 👨‍💻 All of my projects are available at [here.](https://github.com/MrThelink?tab=repositories)
 
 - 💬 Ask me about: **Unity - React.**
 
-- 📫 How to reach me: IG. **https://www.instagram.com/d7enii/**
+- 📫 How to reach me: [IG.](https://www.instagram.com/d7enii/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
