@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deni</h1>
 <h3 align="center">A passionate software developer from Finland.</h3>
 
-<p align="center" margin="20px 30px"> <img src="https://komarev.com/ghpvc/?username=mrthelink&label=Profile%20views&color=0e75b6&style=flat" alt="mrthelink" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrthelink&label=Profile%20views&color=0e75b6&style=flat" alt="mrthelink" /> </p>
 
 - 🔭 I’m currently working on [portfolio](https://github.com/MrThelink/portfolio)
 
