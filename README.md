@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [here.](https://github.com/MrThelink?tab=repositories)
 
-- 💬 Ask me about: **Unity - React.**
+//- 💬 Ask me about: **Unity - React.**
 
 - 📫 How to reach me: [IG.](https://www.instagram.com/d7enii/)
 
