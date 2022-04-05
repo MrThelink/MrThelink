@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [portfolio](https://github.com/MrThelink/portfolio)
 
-- 🌱 I’m currently learnin: **SQL - Node Sql - React - JavaScript - TypeScript.**
+- 🌱 I’m currently learnin: **Next.js - React - JavaScript - TypeScript.**
 
 - 👨‍💻 All of my projects are available at [here.](https://github.com/MrThelink?tab=repositories)
 
