@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrthelink&label=Profile%20views&color=0e75b6&style=flat" alt="mrthelink" /> </p>
 
-- 🔭 I’m currently working on [portfolio](https://github.com/MrThelink/portfolio)
+- 🔭 I’m currently working on [project]()
 
 - 🌱 I’m currently learnin: **Next.js - React - JavaScript - TypeScript.**
 
